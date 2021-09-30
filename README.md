@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keioon
+- 👋 Hi, I’m Krystian Urbaniak
 - 👀 I’m interested in coding
 - 🌱 I’m currently practice JavaScript and in nearly future I want to get experience in using React
 
